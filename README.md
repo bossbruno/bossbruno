@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bossbruno
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning android Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kotlin and Flutter
+- 💞️ I’m looking to collaborate on mobile apps in above language
 - 📫 How to reach me kwakye105@gmail.com
 
 <!---
